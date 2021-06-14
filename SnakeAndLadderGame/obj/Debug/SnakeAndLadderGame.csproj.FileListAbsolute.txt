@@ -1,0 +1,6 @@
+C:\Users\Anonymous\source\repos\SnakeAndLadderGame\SnakeAndLadderGame\bin\Debug\SnakeAndLadderGame.exe.config
+C:\Users\Anonymous\source\repos\SnakeAndLadderGame\SnakeAndLadderGame\bin\Debug\SnakeAndLadderGame.exe
+C:\Users\Anonymous\source\repos\SnakeAndLadderGame\SnakeAndLadderGame\bin\Debug\SnakeAndLadderGame.pdb
+C:\Users\Anonymous\source\repos\SnakeAndLadderGame\SnakeAndLadderGame\obj\Debug\SnakeAndLadderGame.csprojAssemblyReference.cache
+C:\Users\Anonymous\source\repos\SnakeAndLadderGame\SnakeAndLadderGame\obj\Debug\SnakeAndLadderGame.exe
+C:\Users\Anonymous\source\repos\SnakeAndLadderGame\SnakeAndLadderGame\obj\Debug\SnakeAndLadderGame.pdb
