@@ -91,7 +91,7 @@ namespace Games
                 else
                 {
                     Console.WriteLine(string.Format("{0} - Please press enter to roll a dice  ", playerNames[playerOrder]));
-                    //Console.ReadKey();
+                    Console.ReadKey();
                     Random rnd = new Random();
                     int dice = rnd.Next(1, 7);   // creates a dice roll between 1 and 6
                     Console.WriteLine("Diced Value Is " + dice);
